@@ -6,6 +6,12 @@ import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.ViewModelProvider
 import com.hfad.mvvmgithub.R
+import com.hfad.mvvmgithub.databinding.ActivityMainBinding
+import com.hfad.mvvmgithub.factory.MainModelFactory
+import com.hfad.mvvmgithub.main_viewmodel.adapter.AdapterUsers
+import com.hfad.mvvmgithub.repository.MainRepository
+import com.hfad.mvvmgithub.services.Api
+import com.hfad.mvvmgithub.user_viewmodel.UserActivity
 
 class MainActivity : AppCompatActivity(), AdapterUsers.SetOnClickListener {
 

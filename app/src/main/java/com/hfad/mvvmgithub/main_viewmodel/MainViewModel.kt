@@ -2,6 +2,8 @@ package com.hfad.mvvmgithub.main_viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.hfad.mvvmgithub.model.Users
+import com.hfad.mvvmgithub.repository.MainRepository
 import kotlinx.coroutines.*
 
 class MainViewModel constructor(private val mainRepository: MainRepository) : ViewModel() {
