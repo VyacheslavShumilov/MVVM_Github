@@ -4,6 +4,7 @@ import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.hfad.mvvmgithub.databinding.ItemUsersBinding
 import com.hfad.mvvmgithub.model.Users
 import com.squareup.picasso.Picasso
 

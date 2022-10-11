@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GB_Study/10_Kotlin_ment/7_mvvm_github/7_MVVM_update_to_github/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/7_mvvm_github/7_MVVM_update_to_github/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/7_mvvm_github/7_MVVM_update_to_github/app/src/main/res/layout/item_users.xml" value="0.1" />
       </map>
     </option>
   </component>
