@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="avatar_size_width">150dp</dimen>
+    <dimen name="avatar_size_height">150dp</dimen>
+    <dimen name="user_image_width">150dp</dimen>
+    <dimen name="user_image_height">150dp</dimen>
+    <dimen name="user_image_margin_start">24dp</dimen>
+    <dimen name="user_image_margin_top">24dp</dimen>
+    <dimen name="user_txt_margin_start">24dp</dimen>
+    <dimen name="user_txt_margin_top">5dp</dimen>
+    <dimen name="item_image_margin_start">16dp</dimen>
+    <dimen name="item_image_margin_top">16dp</dimen>
+    <dimen name="item_txt_margin_start">8dp</dimen>
+    <dimen name="item_txt_margin_top">24dp</dimen>
+</resources>
